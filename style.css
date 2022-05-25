@@ -1,0 +1,13 @@
+label {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+body {
+    margin: 2rem;
+}
+
+button {
+    margin-top: 20px;
+}
